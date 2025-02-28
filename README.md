@@ -2,7 +2,7 @@
 
 This project was given by [Prodigy Infotech](https://prodigyinfotech.dev/) as Task 1.
 
-See [Demo]
+See [Demo][lovely-platypus-d8e13f.netlify.app]
 
 ## Description
 
